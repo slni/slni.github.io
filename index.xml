@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://slni.github.io/</link>
+    <link>https://slni.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Mar 2023 23:08:58 +0800</lastBuildDate><atom:link href="http://slni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 23:08:58 +0800</lastBuildDate><atom:link href="https://slni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://slni.github.io/post/first/</link>
+      <link>https://slni.github.io/post/first/</link>
       <pubDate>Thu, 02 Mar 2023 23:08:58 +0800</pubDate>
       
-      <guid>http://slni.github.io/post/first/</guid>
+      <guid>https://slni.github.io/post/first/</guid>
       <description>hello world first md</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://slni.github.io/about/</link>
+      <link>https://slni.github.io/about/</link>
       <pubDate>Thu, 02 Mar 2023 23:07:57 +0800</pubDate>
       
-      <guid>http://slni.github.io/about/</guid>
+      <guid>https://slni.github.io/about/</guid>
       <description>hello world slni</description>
     </item>
     
