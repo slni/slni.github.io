@@ -1,29 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>我的 Hugo FixIt 网站</title>
     <link>https://slni.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Mar 2023 23:08:58 +0800</lastBuildDate><atom:link href="https://slni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 03 Mar 2023 23:07:07 &#43;0800</lastBuildDate>
+      <atom:link href="https://slni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://slni.github.io/post/first/</link>
-      <pubDate>Thu, 02 Mar 2023 23:08:58 +0800</pubDate>
-      
-      <guid>https://slni.github.io/post/first/</guid>
-      <description>hello world first md</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://slni.github.io/about/</link>
-      <pubDate>Thu, 02 Mar 2023 23:07:57 +0800</pubDate>
-      
-      <guid>https://slni.github.io/about/</guid>
-      <description>hello world slni</description>
-    </item>
-    
-  </channel>
+  <title>示例文章</title>
+  <link>https://slni.github.io/posts/demo/demo/</link>
+  <pubDate>Fri, 03 Mar 2023 23:07:07 &#43;0800</pubDate>
+  <author>slni</author>
+  <guid>https://slni.github.io/posts/demo/demo/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
