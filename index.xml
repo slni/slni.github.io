@@ -29,13 +29,5 @@
   <guid>https://slni.github.io/posts/hugo/first/first/</guid>
   <description><![CDATA[一、简单介绍 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 hugo源码地址：https://github.c]]></description>
 </item>
-<item>
-  <title>示例文章</title>
-  <link>https://slni.github.io/posts/demo/demo/</link>
-  <pubDate>Fri, 03 Mar 2023 23:07:07 &#43;0800</pubDate>
-  <author>雷</author>
-  <guid>https://slni.github.io/posts/demo/demo/</guid>
-  <description><![CDATA[相对路径图片 绝对路径图片 姓名 年龄 性别 lei 18 男 func main() { print(&#34;hello world!&#34;) }]]></description>
-</item>
 </channel>
 </rss>
