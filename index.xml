@@ -1,32 +1,32 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>我的</title>
+    <title>倪申雷的个人网站</title>
     <link>https://slni.github.io/</link>
-    <description>我的</description>
+    <description>倪申雷的个人网站</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 04 Mar 2023 15:58:26 &#43;0800</lastBuildDate>
       <atom:link href="https://slni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>HUGO部署-GitHub Pages</title>
-  <link>https://slni.github.io/posts/hugo/third/third/</link>
+  <link>https://slni.github.io/posts/hugo/03-hugo%E9%83%A8%E7%BD%B2-github-pages/</link>
   <pubDate>Sat, 04 Mar 2023 15:58:26 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>https://slni.github.io/posts/hugo/third/third/</guid>
+  <guid>https://slni.github.io/posts/hugo/03-hugo%E9%83%A8%E7%BD%B2-github-pages/</guid>
   <description><![CDATA[前言： hugo生成好的静态网页可以使用多种方式部署到线上，以下使用GitHub Pages进行部署。 第一步：创建仓库 首先在GitHub上创建一]]></description>
 </item>
 <item>
   <title>HUGO进阶 - FixIt主题配置</title>
-  <link>https://slni.github.io/posts/hugo/second/second/</link>
+  <link>https://slni.github.io/posts/hugo/02-hugo%E8%BF%9B%E9%98%B6-fixit%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
   <pubDate>Fri, 03 Mar 2023 23:07:07 &#43;0800</pubDate>
   <author>slni</author>
-  <guid>https://slni.github.io/posts/hugo/second/second/</guid>
+  <guid>https://slni.github.io/posts/hugo/02-hugo%E8%BF%9B%E9%98%B6-fixit%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
   <description><![CDATA[FixIt Github地址 一、根目录config.toml配置文件 通过下面的配置，完成对网站主体框架的配置搭建工作。 1. 基本配置 # 网站标题 title = &#34]]></description>
 </item>
 <item>
   <title>HUGO快速入门</title>
-  <link>https://slni.github.io/posts/hugo/first/first/</link>
+  <link>https://slni.github.io/posts/hugo/01-hugo%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</link>
   <pubDate>Fri, 03 Mar 2023 23:07:07 &#43;0800</pubDate>
   <author>slni</author>
-  <guid>https://slni.github.io/posts/hugo/first/first/</guid>
+  <guid>https://slni.github.io/posts/hugo/01-hugo%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</guid>
   <description><![CDATA[一、简单介绍 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 hugo源码地址：https://github.c]]></description>
 </item>
 </channel>
