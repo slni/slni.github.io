@@ -7,7 +7,7 @@
   <title>HUGO部署-GitHub Pages</title>
   <link>https://slni.github.io/posts/hugo/03-hugo%E9%83%A8%E7%BD%B2-github-pages/</link>
   <pubDate>Sat, 04 Mar 2023 15:58:26 &#43;0800</pubDate>
-  <author>作者</author>
+  <author>slni</author>
   <guid>https://slni.github.io/posts/hugo/03-hugo%E9%83%A8%E7%BD%B2-github-pages/</guid>
   <description><![CDATA[前言： hugo生成好的静态网页可以使用多种方式部署到线上，以下使用GitHub Pages进行部署。 第一步：创建仓库 首先在GitHub上创建一]]></description>
 </item>
